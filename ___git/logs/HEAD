@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 3c30a6310a5025f584b0f66db2e94a7dd62841dc chosenman <chosenman2008@gmail.com> 1508893143 -0700	clone: from https://github.com/chosenman/the-breif.git
+3c30a6310a5025f584b0f66db2e94a7dd62841dc 2f45685d7fbb3ae74764ac09a2d39aa4241f3314 chosenman <chosenman2008@gmail.com> 1508896368 -0700	commit: brief draft structure
+2f45685d7fbb3ae74764ac09a2d39aa4241f3314 5842cbd1bee1e29b745749a949e2519c07cdaf29 chosenman <chosenman2008@gmail.com> 1508900563 -0700	commit: brief draft structure html
+5842cbd1bee1e29b745749a949e2519c07cdaf29 36267c2dfa1e1e40e848d7ef51aa7a8d5d9de0f6 chosenman <chosenman2008@gmail.com> 1508998802 -0700	commit: did 2 column layout responsive html template draft
+36267c2dfa1e1e40e848d7ef51aa7a8d5d9de0f6 fb6964d65a9e0fda76e9238cb64dddf74cf5855d chosenman <chosenman2008@gmail.com> 1509773721 -0700	reset: moving to origin/master
+fb6964d65a9e0fda76e9238cb64dddf74cf5855d 828fbee88d8e0acd097a6f06053d1191c7755217 chosenman <chosenman2008@gmail.com> 1511065834 -0800	pull: Fast-forward
+828fbee88d8e0acd097a6f06053d1191c7755217 7f7bfcc8920387d14d65b2a35340f6ce17992177 chosenman <chosenman2008@gmail.com> 1511138447 -0800	commit: build node app, added back end logic draft
+7f7bfcc8920387d14d65b2a35340f6ce17992177 1dc7ea2960ba43fafda2bacc876e19cf2e2bb67f chosenman <chosenman2008@gmail.com> 1511423500 -0800	commit: generic logic for google auth is done
+1dc7ea2960ba43fafda2bacc876e19cf2e2bb67f 46fa33a40e44690fa7f4a2d0ba07145f7018f2cb chosenman <chosenman2008@gmail.com> 1511487612 -0800	commit: first page html

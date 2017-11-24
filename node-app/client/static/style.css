@@ -1,0 +1,16 @@
+body {
+  background:#ccc
+}
+
+
+
+#frontLogin {
+  text-align: center;
+  margin:20% auto;
+  width:400px;
+}
+
+#frontLogin .g-signin2 {
+  margin-left: -60px;
+  padding-left: 50%;
+}
